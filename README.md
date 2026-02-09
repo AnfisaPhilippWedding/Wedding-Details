@@ -20,7 +20,12 @@ We created this space as a fun way to keep our guests informed and up to date.
 **Name:** Schloss Berlepsch 
 **Address:** Berlepsch 1, 37218 Witzenhausen, Germany
 
-**Map:** [(Link to Google Maps)](https://maps.app.goo.gl/kRaGyfbSyTYx253P6))
+**Map:** [(Link to Google Maps)](https://maps.app.goo.gl/kRaGyfbSyTYx253P6)
+
+The wedding will take place in the "Schlosskapelle". Festivities will continue in the "Schloss".
+![Map of Berlepsch](Berlepsch_fantasy_map.png)
+
+
 
 ### 🏨 Accommodation
 
