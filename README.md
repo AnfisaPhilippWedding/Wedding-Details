@@ -144,4 +144,4 @@ Danke, dass ihr diesen besonderen Tag mit uns teilt.
 Wir freuen uns sehr auf euch!
 
 With love / Mit Liebe,  
-**[Name] & [Name]**
+**Anfisa & Philipp**
