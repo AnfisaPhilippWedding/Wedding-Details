@@ -10,7 +10,7 @@ We created this space as a fun way to keep our guests informed and up to date.
 
 ### 📅 Wedding Details
 
-- **Date:** October 17th  
+- **Date:** October 17th  2026
 - **Time:** 13:45 
 - **Location:** Schloss Berlepsch (Berlepsch Castle)
 - **Dress Code:** [e.g. Formal / Semi-formal / Casual]  
@@ -38,9 +38,9 @@ Recommended hotels and places to stay:
 
 Information about how to get there:
 
-- By car: [Details / Parking Info]
-- By train/bus: [Details]
-- By plane: We are located in the middle of Germany. The closets main airports are: Hannover, Frankfurt, Hamburg, Berlin.
+- By car: Use the Google Maps link above. The venue is located next to the Autobahn. [ The parking spots are marked on the here.](Detailed_Berlepsch%20map.png)
+- By train/bus: From Göttingen you can take a train, bus and finally walk for about 20 Minutes to reach the venue. An example can be found [here](https://www.google.com/maps/dir/G%C3%B6ttingen,+Bahnhofspl.+1,+37073+G%C3%B6ttingen/Berlepsch,+37218+Witzenhausen/@51.4008444,9.8370717,3511m/am=t/data=!3m1!1e3!4m19!4m18!1m5!1m1!1s0x47a4d4b9a12cd6cb:0xf7b53240993d3c13!2m2!1d9.9267746!2d51.5366249!1m5!1m1!1s0x47bb3320601f2019:0x71695ddd8722918e!2m2!1d9.8369789!2d51.3959382!2m3!6e0!7e2!8j1771063200!3e3!5i5?entry=ttu&g_ep=EgoyMDI2MDIwNC4wIKXMDSoASAFQAw%3D%3D)
+- By plane: We are located in the middle of Germany. The closets main airports are: Hannover, Frankfurt, Hamburg, Berlin. You will then need a train connection to Göttingen (about 2.5 h from Frankfurt)
 
 ### 📋 Schedule
 
@@ -65,10 +65,9 @@ If you would like to give something, here is our registry / idea:
 
 ### 📬 Contact
 
-If you have any questions, feel free to contact us:
+If you have any questions, feel free to contact us via WhatsApp :)
 
-- Email: [your@email.com]
-- Phone: [Optional]
+
 
 ---
 
@@ -76,17 +75,20 @@ If you have any questions, feel free to contact us:
 
 ### 📅 Hochzeitsdetails
 
-- **Datum:** [Hochzeitsdatum]  
-- **Uhrzeit:** [Beginn]  
-- **Ort:** [Location, Stadt, Land]  
+- **Datum:** 17. Oktober 2026
+- **Uhrzeit:** 13:45 
+- **Ort:** Schloss Berlepsch
 - **Dresscode:** [z.B. Elegant / Festlich / Leger]  
 
 ### 📍 Veranstaltungsort
 
-**Name:** [Name der Location]  
-**Adresse:** [Vollständige Adresse]  
-**Karte:** [Google Maps Link]
+**Name:** Schloss Berlepsch 
+**Adresse:** Berlepsch 1, 37218 Witzenhausen, Deutschland
+**Karte:** [(Google Maps Link)](https://maps.app.goo.gl/kRaGyfbSyTYx253P6)
 
+Die Trauung findet in der Schlosskapelle statt. Die Feierlichkeiten werden anschließend im Schloss fortgesetzt.
+[Einen detaillierten Lageplan findet ihr hier](Detailed_Berlepsch%20map.png)
+![Map of Berlepsch](Berlepsch_fantasy_map.png)
 ### 🏨 Unterkünfte
 
 Empfohlene Hotels und Übernachtungsmöglichkeiten:
@@ -98,9 +100,13 @@ Empfohlene Hotels und Übernachtungsmöglichkeiten:
 
 Informationen zur Anfahrt:
 
-- Mit dem Auto: [Parkmöglichkeiten]
-- Mit Bahn/Bus: [Details]
-- Mit dem Flugzeug: [Nächster Flughafen]
+- Mit dem Auto: Mit dem Auto: Nutzt bitte den Google-Maps-Link oben.
+  Die Location liegt in der Nähe der Autobahn.  [Die Parkplätze sind hier markiert.](Detailed_Berlepsch%20map.png)
+- Mit Bahn/Bus: Von Göttingen aus könnt ihr mit dem Zug, Bus und anschließend zu Fuß (ca. 20 Minuten) anreisen.
+  Eine Beispielroute findet ihr [hier.](https://www.google.com/maps/dir/G%C3%B6ttingen,+Bahnhofspl.+1,+37073+G%C3%B6ttingen/Berlepsch,+37218+Witzenhausen/@51.4008444,9.8370717,3511m/am=t/data=!3m1!1e3!4m19!4m18!1m5!1m1!1s0x47a4d4b9a12cd6cb:0xf7b53240993d3c13!2m2!1d9.9267746!2d51.5366249!1m5!1m1!1s0x47bb3320601f2019:0x71695ddd8722918e!2m2!1d9.8369789!2d51.3959382!2m3!6e0!7e2!8j1771063200!3e3!5i5?entry=ttu&g_ep=EgoyMDI2MDIwNC4wIKXMDSoASAFQAw%3D%3D)
+- Wir wohnen in der Mitte Deutschlands.
+  Die nächstgelegenen größeren Flughäfen sind: Hannover, Frankfurt, Hamburg und Berlin.
+  Von dort aus benötigt ihr eine Zugverbindung nach Göttingen (ca. 2,5 Stunden von Frankfurt).
 
 ### 📋 Ablauf
 
@@ -125,10 +131,7 @@ Falls ihr uns dennoch etwas schenken möchtet:
 
 ### 📬 Kontakt
 
-Bei Fragen könnt ihr uns gerne kontaktieren:
-
-- E-Mail: [eure@email.com]
-- Telefon: [Optional]
+Bei Fragen könnt ihr uns gerne jederzeit per WhatsApp kontaktieren
 
 ---
 
