@@ -3,10 +3,20 @@
 Welcome to our wedding GitHub repository!  
 We created this space as a fun way to keep our guests informed and up to date.
 🇩🇪 Deutsch below!
+<p align="center">
+Please Scan or click to confitm your attendance:
+</p>
 
 <p align="center">
-  <img src="QR_Code_Reply.jpeg" alt="Please reply to confirm your attendance" width="400">
+ 
+  <a href="https://docs.google.com/forms/d/1e5dOoB8rwElcObSbWqxHxZ5T_lu4P_jz7G_JQSeOolE/edit" target="_blank">
+    <img src="QR_code_reply.png" alt="Please reply to confirm your attendance" width="400">
+  </a>
 </p>
+
+
+
+
 
 
 ---
@@ -56,12 +66,6 @@ Information about how to get there:
 | [ ]   | Dinner |
 | [ ]   | Party |
 
-### 🎁 Gifts
-
-Your presence is the best gift!  
-If you would like to give something, here is our registry / idea:
-
-[Link or description]
 
 ### 📸 Photos & Social Media
 
@@ -122,12 +126,6 @@ Informationen zur Anfahrt:
 | [ ]     | Abendessen |
 | [ ]     | Feier |
 
-### 🎁 Geschenke
-
-Eure Anwesenheit ist das schönste Geschenk!  
-Falls ihr uns dennoch etwas schenken möchtet:
-
-[Link oder Beschreibung]
 
 ### 📸 Fotos & Social Media
 
