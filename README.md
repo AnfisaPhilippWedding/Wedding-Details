@@ -13,7 +13,7 @@ We created this space as a fun way to keep our guests informed and up to date.
 - **Date:** October 17th  2026
 - **Time:** 13:45 
 - **Location:** Schloss Berlepsch (Berlepsch Castle)
-- **Dress Code:** [e.g. Formal / Semi-formal / Casual]  
+- **Dress Code:** Formal   
 
 ### 📍 Venue
 
@@ -78,7 +78,7 @@ If you have any questions, feel free to contact us via WhatsApp :)
 - **Datum:** 17. Oktober 2026
 - **Uhrzeit:** 13:45 
 - **Ort:** Schloss Berlepsch
-- **Dresscode:** [z.B. Elegant / Festlich / Leger]  
+- **Dresscode:** Elegant 
 
 ### 📍 Veranstaltungsort
 
