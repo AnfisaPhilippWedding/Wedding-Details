@@ -4,6 +4,11 @@ Welcome to our wedding GitHub repository!
 We created this space as a fun way to keep our guests informed and up to date.
 🇩🇪 Deutsch below!
 
+<p align="center">
+  <img src="QR_Code_Reply.jpeg" alt="Please reply to confirm your attendance" width="400">
+</p>
+
+
 ---
 
 ## 🇬🇧 English
