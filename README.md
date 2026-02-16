@@ -43,11 +43,13 @@ The wedding will take place in the "Schlosskapelle". Festivities will continue i
 
 
 ### 🏨 Accommodation
-
+**Please contact us before booking!**
+We will organize car rides to the location if needed.
 Recommended hotels and places to stay:
 
-- Baumhaushotel Robins Nest (200 m)] – [Website](https://www.robins-nest.de/)
-- [Hotel Name] – [Website]
+- Baumhaushotel Robins Nest (200 m) – [Website](https://www.robins-nest.de/)
+- Hotel Garni Wolf (5 km) – [Website](http://www.hotel-garni-wolf.de/zimmer/)
+- Schillingshof (7 km) - [Website](https://direct-book.com/properties/schillingshof?locale=de&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&currency=EUR&checkInDate=2026-10-17&checkOutDate=2026-10-18&trackPage=yes)
 
 ### 🚗 Transportation
 
@@ -58,14 +60,9 @@ Information about how to get there:
 - By plane: We are located in the middle of Germany. The closets main airports are: Hannover, Frankfurt, Hamburg, Berlin. You will then need a train connection to Göttingen (about 2.5 h from Frankfurt)
 
 ### 📋 Schedule
-
-| Time  | Event |
-|-------|--------|
-| [ ]   | Ceremony |
-| [ ]   | Reception |
-| [ ]   | Dinner |
-| [ ]   | Party |
-
+<p align="center">
+    <img src="time_table_en.jpeg" alt="Please reply to confirm your attendance" width="400">
+</p>
 
 ### 📸 Photos & Social Media
 
@@ -99,11 +96,13 @@ Die Trauung findet in der Schlosskapelle statt. Die Feierlichkeiten werden ansch
 [Einen detaillierten Lageplan findet ihr hier](Detailed_Berlepsch%20map.png)
 ![Map of Berlepsch](Berlepsch_fantasy_map.png)
 ### 🏨 Unterkünfte
-
+**Bitte kontaktiert uns bevor ihr bucht!** Wir werden einen Fahrservice organiseren.
 Empfohlene Hotels und Übernachtungsmöglichkeiten:
 
-- [Hotelname] – [Website]
-- [Hotelname] – [Website]
+- Baumhaushotel Robins Nest (200 m) – [Website](https://www.robins-nest.de/)
+- Hotel Garni Wolf (5 km) – [Website](http://www.hotel-garni-wolf.de/zimmer/)
+- Schillingshof (7 km) - [Website](https://direct-book.com/properties/schillingshof?locale=de&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&currency=EUR&checkInDate=2026-10-17&checkOutDate=2026-10-18&trackPage=yes)
+
 
 ### 🚗 Anreise
 
