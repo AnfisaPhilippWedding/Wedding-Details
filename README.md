@@ -62,7 +62,7 @@ Information about how to get there:
 
 ### 📋 Schedule
 <p align="center">
-    <img src="time_table_en.jpeg" alt="Please reply to confirm your attendance" width="400">
+    <img src="schedule_en.png" alt="Please reply to confirm your attendance" width="400">
 </p>
 
 ### 📸 Photos & Social Media
@@ -120,13 +120,10 @@ Informationen zur Anfahrt:
 
 ### 📋 Ablauf
 
-| Uhrzeit | Programmpunkt |
-|---------|---------------|
-| [ ]     | Trauung |
-| [ ]     | Sektempfang |
-| [ ]     | Abendessen |
-| [ ]     | Feier |
-
+### 📋 Schedule
+<p align="center">
+    <img src="schedule_de.png" alt="Please reply to confirm your attendance" width="400">
+</p>
 
 ### 📸 Fotos & Social Media
 
