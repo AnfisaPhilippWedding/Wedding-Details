@@ -4,7 +4,7 @@ Welcome to our wedding GitHub repository!
 We created this space as a fun way to keep our guests informed and up to date.
 🇩🇪 Deutsch below!
 <p align="center">
-Please Scan or click to confitm your attendance:
+Please Scan or click to confirm your attendance:
 </p>
 
 <p align="center">
