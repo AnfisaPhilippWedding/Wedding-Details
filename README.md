@@ -119,8 +119,6 @@ Informationen zur Anfahrt:
   Von dort aus benötigt ihr eine Zugverbindung nach Göttingen (ca. 2,5 Stunden von Frankfurt).
 
 ### 📋 Ablauf
-
-### 📋 Schedule
 <p align="center">
     <img src="schedule_de.png" alt="Please reply to confirm your attendance" width="400">
 </p>
