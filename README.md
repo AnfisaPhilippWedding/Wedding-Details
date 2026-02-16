@@ -49,7 +49,8 @@ Recommended hotels and places to stay:
 
 - Baumhaushotel Robins Nest (200 m) – [Website](https://www.robins-nest.de/)
 - Hotel Garni Wolf (5 km) – [Website](http://www.hotel-garni-wolf.de/zimmer/)
-- Schillingshof (7 km) - [Website](https://direct-book.com/properties/schillingshof?locale=de&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&currency=EUR&checkInDate=2026-10-17&checkOutDate=2026-10-18&trackPage=yes)
+- Hotel Biewald (7 km) – [Website](https://www.landhaus-biewald.de/)
+- Schillingshof (10 km) - [Website](https://direct-book.com/properties/schillingshof?locale=de&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&currency=EUR&checkInDate=2026-10-17&checkOutDate=2026-10-18&trackPage=yes)
 
 ### 🚗 Transportation
 
