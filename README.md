@@ -67,8 +67,7 @@ Information about how to get there:
 
 ### 📸 Photos & Social Media
 
-- Hashtag: **#[YourHashtag]**
-- Upload link: [Link]
+- Upload link: Comming soon!
 
 ### 📬 Contact
 
@@ -125,8 +124,7 @@ Informationen zur Anfahrt:
 
 ### 📸 Fotos & Social Media
 
-- Hashtag: **#[EuerHashtag]**
-- Upload-Link: [Link]
+- Upload link: Comming soon!
 
 ### 📬 Kontakt
 
